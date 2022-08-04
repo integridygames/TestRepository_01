@@ -44,6 +44,7 @@
      <Compile Include="Assets\Scripts\TestScript.cs" />
      <Compile Include="Assets\Scripts\Hero.cs" />
      <Compile Include="Assets\Scripts\HeroType.cs" />
+     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
